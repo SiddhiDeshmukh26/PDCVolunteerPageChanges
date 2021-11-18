@@ -1,0 +1,49 @@
+.center {
+  text-align: center;
+}
+
+#user_image {
+  height: 250px;
+  width: 500px;
+}
+
+#column {
+  margin-bottom: 20px;
+}
+
+#contentContainer {
+  text-align: left;
+  margin: 20px 40px;
+  font-size: 18px;
+  justify-content: flex-start;
+}
+
+#meetVolunteersButton {
+  margin-right: 20px;
+}
+
+#buttons-container {
+  display: flex;
+}
+
+#socialMediaIcon {
+  width: 32px;
+  height: 32px;
+  margin-right: 5px;
+}
+
+#socialMediaIconsContainer {
+  display: flex;
+  justify-content: center;
+}
+
+#image {
+  border-radius: 5px;
+}
+h1.ui.header {
+  height: 100px;
+  text-align: center;
+}
+.ui.ui.header:first-child {
+  margin-top: 50px;
+}
